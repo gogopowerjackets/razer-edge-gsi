@@ -38,7 +38,7 @@ I created this GitHub guide to make the information shared in Discord and Reddit
 ### Hardware Prerequisites
 
 Before beginning, ensure you have:
-- Unlockable Razer Edge device (WiFi or 5G model that is paid off, otherwise the bootloader cannot be unlocked)
+- Razer Edge device
 - USB-C data cable (not just a charging cable)
   - **Note**: Razer recommends that you not use the in-box USB Type-C to Type-C charging cable for flashing. They claim that their cable is designed for power delivery, not data transfer, so to play it safe I used a USB 3 Type-A to Type-C spec-compliant cable.
 - Windows 10/11 PC
